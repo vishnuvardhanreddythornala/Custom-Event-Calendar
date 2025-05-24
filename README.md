@@ -6,6 +6,7 @@ Custom Event Calendar is a React.js-based application designed to help users eff
 
 ## 📑 Table of Contents
 - [About the Project](#-about-the-project)
+- [Demo](#demo)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
 - [Installation](#-installation)
@@ -22,6 +23,10 @@ Custom Event Calendar is a React.js-based application designed to help users eff
 Managing personal or team events can become overwhelming without a dedicated tool.  
 This Custom Event Calendar offers a clean and intuitive interface to add, edit, and manage your events efficiently.  
 The project is built with modern frontend tools and demonstrates effective component-based architecture with Tailwind CSS styling.
+
+---
+## 🎥 Demo
+> https://customeventcalendar.netlify.app/
 
 ---
 
