@@ -26,8 +26,7 @@ The project is built with modern frontend tools and demonstrates effective compo
 
 ---
 ## 🎥 Demo
-> https://customeventcalendar.netlify.app/
-
+> https://vishnuvardhanreddythornala.github.io/Custom-Event-Calendar/
 ---
 
 ## ✨ Features
